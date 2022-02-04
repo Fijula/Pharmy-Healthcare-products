@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const URI=` mongodb+srv://fijula:fijulaazhikoden@cluster0.snk4t.mongodb.net/healthify?retryWrites=true&w=majority`
+const URL =` `
 
 const connectDB = async () => {
     try{
